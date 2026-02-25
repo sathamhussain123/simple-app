@@ -7,7 +7,7 @@ import AuthProvider from "@/components/providers/AuthProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AeroSync POS | Satham Hussain app",
+  title: "Satham Hussain-AeroSync POS | Satham Hussain app",
   description: "A premium point of sale application",
 };
 

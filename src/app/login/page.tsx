@@ -44,7 +44,7 @@ export default function LoginPage() {
                     </div>
                     <div className="text-center animate-in slide-in-from-bottom-2 duration-500">
                         <h1 className="text-3xl font-black bg-clip-text text-transparent bg-gradient-to-r from-slate-100 to-slate-400 tracking-tight">
-                            AeroSync <span className="text-indigo-400 px-1 opacity-90 rounded">Core</span>
+                            Satham Hussain-AeroSync <span className="text-indigo-400 px-1 opacity-90 rounded">Core</span>
                         </h1>
                         <p className="text-slate-500 text-sm font-medium tracking-wide mt-2">Identify yourself to proceed.</p>
                     </div>
@@ -66,7 +66,7 @@ export default function LoginPage() {
                                 value={email}
                                 onChange={e => setEmail(e.target.value)}
                                 className="w-full bg-slate-900/50 border border-slate-700/80 p-4 pl-12 rounded-xl text-slate-100 placeholder-slate-600 focus:outline-none focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500/50 transition shadow-inner font-mono text-sm"
-                                placeholder="sysadmin@aerosync.com"
+                                placeholder="sysadmin@sathamhussain-aerosync.com"
                             />
                         </div>
 
